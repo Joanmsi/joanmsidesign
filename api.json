@@ -1,0 +1,26 @@
+[
+    {
+        "title" : "Blipco",
+        "id" : 1,
+        "description" : "Logo para una empresa dedicada a las tecnologias",
+        "img" : "./assets/img/demo-image-01.gif"
+    },
+    {
+        "title" : "Vortitech",
+        "id" : 1,
+        "description" : "Logo para un local de soporte tecnico y reparaciones",
+        "img" : "./assets/img/demo-image-02.gif"
+    },
+    {
+        "title" : "Hexalite",
+        "id" : 1,
+        "description" : "Logo para un sitio de apuestas en línea",
+        "img" : "./assets/img/demo-image-03.gif"
+    },
+    {
+        "title" : "Barranca Cervecería",
+        "id" : 1,
+        "description" : "Logo para una cervecería artesanal",
+        "img" : "./assets/img/demo-image-04.gif"
+    }
+]
